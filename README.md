@@ -11,3 +11,6 @@
 `$ gnome-teaks`
 Ctrl is mapped to alt, alt is mapped to win. (Mac cmd ctrl behavior)
 
+## Key bindings
+Super/Win + L: Lock
+
