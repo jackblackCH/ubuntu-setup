@@ -13,6 +13,7 @@ You probably should use "snap" which is the new software hub
 ```
 sudo snap install code --classic
 sudo snap install slack --classic
+sudo snap install telegram-desktop
 ```
 
 ## Find Software
