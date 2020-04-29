@@ -3,9 +3,14 @@ A step by step guide to setup Ubuntu for Frontend Software Engineers (coming fro
 
 ## Install tools
 ```
+sudo apt-get install curl
 sudo apt install git
 sudo add-apt-repository universe
 sudo apt install gnome-tweak-tool
+
+# Install the lts version of node (adapt version if needed)
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt-get install nodejs
 ```
 
 ## Install Apps 
