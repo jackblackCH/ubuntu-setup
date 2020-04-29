@@ -1,6 +1,11 @@
 # Ubuntu Setup for Frontend Engineers
 A step by step guide to setup Ubuntu for Frontend Software Engineers (coming from macOS)
 
+## SSH keys
+```
+ssh-keygen # smash it with enters
+```
+
 ## Install tools
 ```
 sudo apt install curl
