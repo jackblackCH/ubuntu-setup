@@ -13,6 +13,9 @@ sudo apt install git
 sudo add-apt-repository universe
 sudo apt install gnome-tweak-tool
 
+sudo apt install zsh
+sudo apt-get install powerline fonts-powerline
+
 # Install the lts version of node (adapt version if needed)
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install nodejs
