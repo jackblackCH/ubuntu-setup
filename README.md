@@ -17,6 +17,10 @@ Ctrl is mapped to alt, alt is mapped to win. (Mac cmd ctrl behavior)
 ## Key bindings
 Super/Win + L: Lock
 
-## Software
+## Install Software 
+You probably should use "snap" which is the new software hub
 sudo snap install code --classic
+
+## Find Software
+snap find "media player"
 
