@@ -1,5 +1,5 @@
-# The time has come
-A step by step guide to setup a ubuntu for power users (coming from macOS)
+# Ubuntu Setup for Frontend Engineers
+A step by step guide to setup Ubuntu for Frontend Software Engineers (coming from macOS)
 
 ## Install tools
 ```
