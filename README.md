@@ -19,8 +19,8 @@ Super/Win + L: Lock
 
 ## Install Software 
 You probably should use "snap" which is the new software hub
-sudo snap install code --classic
+`sudo snap install code --classic`
 
 ## Find Software
-snap find "media player"
+`snap find "media player"`
 
