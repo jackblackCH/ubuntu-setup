@@ -10,12 +10,17 @@ sudo apt install gnome-tweak-tool
 
 ## Install Apps 
 You probably should use "snap" which is the new software hub
-`sudo snap install code --classic`
-
-## Settings
-`$ gnome-teaks`
-Ctrl is mapped to alt, alt is mapped to win. (Mac cmd ctrl behavior)
+```
+sudo snap install code --classic
+sudo snap install slack --classic
+```
 
 ## Find Software
 `snap find "media player"`
+
+## Settings & Config
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+```
 
