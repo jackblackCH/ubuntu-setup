@@ -51,3 +51,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 
 ## Resources
 https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
+### Tweaks and configs
+https://gist.github.com/pinge/dedf6511cd5459bf8e13
