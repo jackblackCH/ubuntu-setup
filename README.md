@@ -15,6 +15,7 @@ sudo apt install curl
 sudo apt install git
 sudo add-apt-repository universe
 sudo apt install gnome-tweak-tool
+sudo apt install neofetch
 
 sudo apt install zsh
 sudo apt-get install powerline fonts-powerline
