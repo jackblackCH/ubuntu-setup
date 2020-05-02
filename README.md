@@ -5,7 +5,7 @@ A step by step guide to setup Ubuntu for Frontend Software Engineers (coming fro
 ```
 ssh-keygen
 ```
-Add to [GitHub](https://github.com/settings/keys)
+[Add to GitHub](https://github.com/settings/keys)
 
 ## Install tools
 ```
