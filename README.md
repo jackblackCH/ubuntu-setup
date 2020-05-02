@@ -32,9 +32,13 @@ sudo snap install telegram-desktop
 ## Find Software
 `snap find "media player"`
 
-## Settings & Config
+## Settings, Shell & Configs
 ```
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
+
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
+## Resources
+https://github.com/romkatv/powerlevel10k#oh-my-zsh
