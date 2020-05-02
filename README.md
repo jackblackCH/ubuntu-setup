@@ -17,7 +17,9 @@ sudo apt install gnome-tweak-tool
 sudo apt install zsh
 sudo apt-get install powerline fonts-powerline
 
-# Install an initial version of nodejs. We use the lts version of node. After a node version is installed, you probably work with a node version manager.
+# Install an initial version of nodejs (12.x.x lts). 
+# You probably install a node version manager via npm from now on.
+
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install nodejs
 ```
