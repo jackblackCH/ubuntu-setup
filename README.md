@@ -31,6 +31,7 @@ You probably should use "snap" which is the new software hub of these freaks
 Use `snap find "media player"` to find software
 
 ```
+sudo snap install chromium
 sudo snap install code --classic
 sudo snap install slack --classic
 sudo snap install telegram-desktop
