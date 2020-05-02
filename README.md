@@ -41,6 +41,8 @@ git config --global user.email "youremail@yourdomain.com"
 
 # Powerline (Shell colors and tweaks)
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+
+# TODO: Install and activate all dotfiles and configs from github
 ```
 
 ## Resources
