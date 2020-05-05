@@ -59,7 +59,7 @@ sudo alsa force-reload
 pavucontrol
 ```
 
-## Teaks
+## Tweaks
 ### Reduce Overheating
 ```
 sudo add-apt-repository ppa:linrunner/tlp
