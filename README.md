@@ -49,7 +49,17 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 # TODO: Install and activate all dotfiles and configs from github
 ```
 
+## Teaks
+### Reduce Overheating
+```
+sudo add-apt-repository ppa:linrunner/tlp
+sudo apt-get update
+sudo apt-get install tlp tlp-rdw
+sudo tlp start
+```
+
 ## Resources
+https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
 https://github.com/romkatv/powerlevel10k#oh-my-zsh
 
 ### Tweaks and configs
