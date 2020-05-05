@@ -47,6 +47,16 @@ git config --global user.email "youremail@yourdomain.com"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
 # TODO: Install and activate all dotfiles and configs from github
+
+## Improve sound. Reinstall sound
+sudo apt-get purge pulseaudio
+sudo apt-get clean && sudo apt-get autoremove
+
+# Reboot. Open a terminal again and type (ignore any errors with the rm command):
+rm -r ~/.pulse ~/.asound* ~/.pulse-cookie ~/.config/pulse
+sudo apt-get install pulseaudio
+sudo alsa force-reload
+pavucontrol
 ```
 
 ## Teaks
