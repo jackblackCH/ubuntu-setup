@@ -57,6 +57,7 @@ rm -r ~/.pulse ~/.asound* ~/.pulse-cookie ~/.config/pulse
 sudo apt-get install pulseaudio
 sudo alsa force-reload
 pavucontrol
+sudo reboot
 ```
 
 ## Tweaks
