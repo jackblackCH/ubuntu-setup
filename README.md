@@ -28,7 +28,7 @@ sudo apt install nodejs
 ```
 
 ## Install Apps 
-You probably should use "snap" which is the new software hub of these freaks
+You probably should use "snap" which is this kinda software hub
 Use `snap find "media player"` to find software
 
 ```
