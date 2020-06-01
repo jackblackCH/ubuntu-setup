@@ -73,9 +73,8 @@ sudo tlp start
 ```
 
 ## Resources
-https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
-https://github.com/romkatv/powerlevel10k#oh-my-zsh
-https://rawtherapee.com/downloads/
-
-### Tweaks and configs
-https://gist.github.com/pinge/dedf6511cd5459bf8e13
+- Performance: https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
+- Shell: https://github.com/romkatv/powerlevel10k#oh-my-zsh
+- Photo: https://rawtherapee.com/downloads/
+- Photo: https://www.darktable.org/
+- Performance & Config: https://gist.github.com/pinge/dedf6511cd5459bf8e13
