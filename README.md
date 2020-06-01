@@ -27,6 +27,9 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install nodejs
 ```
 
+## Software
+sudo add-apt-repository ppa:dhor/myway
+
 ## Install Apps 
 You probably should use "snap" which is this kinda software hub
 Use `snap find "media player"` to find software
@@ -72,6 +75,7 @@ sudo tlp start
 ## Resources
 https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
 https://github.com/romkatv/powerlevel10k#oh-my-zsh
+https://rawtherapee.com/downloads/
 
 ### Tweaks and configs
 https://gist.github.com/pinge/dedf6511cd5459bf8e13
