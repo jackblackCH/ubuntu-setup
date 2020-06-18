@@ -28,7 +28,7 @@ sudo apt install nodejs
 ```
 
 ## Software
-sudo add-apt-repository ppa:dhor/myway
+`sudo add-apt-repository ppa:dhor/myway`
 
 ## Install Apps 
 You probably should use "snap" which is this kinda software hub
