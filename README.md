@@ -73,8 +73,8 @@ sudo tlp start
 ```
 
 ## Make Citrix Receiver Work
-- Replace ssl certificates and Citry works like a charm on Ubuntu: https://askubuntu.com/questions/901448/citrix-receiver-error-1000119
-- Eventually install Citrix Web Driver: https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-linux/receiver-for-linux-138.html
+- Replace SLL certificates and Citrix works like a charm on Ubuntu: https://askubuntu.com/questions/901448/citrix-receiver-error-1000119
+- Eventually try to install Citrix Web Driver: https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-linux/receiver-for-linux-138.html
 
 ## Resources
 - Performance: https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
