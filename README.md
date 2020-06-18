@@ -72,6 +72,9 @@ sudo apt-get install tlp tlp-rdw
 sudo tlp start
 ```
 
+## Make Citrix Receiver Work
+https://askubuntu.com/questions/901448/citrix-receiver-error-1000119
+
 ## Resources
 - Performance: https://www.ubuntupit.com/how-to-speed-up-ubuntu-linux-must-follow-tips/
 - Shell: https://github.com/romkatv/powerlevel10k#oh-my-zsh
