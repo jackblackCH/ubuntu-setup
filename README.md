@@ -62,6 +62,8 @@ sudo alsa force-reload
 pavucontrol
 sudo reboot
 ```
+## Add/Reload Keyboard layouts
+- `Alt + F2` -> `r` // reloads GNOME and keyboard layout will be applied. eventually.
 
 ## Tweaks
 ### Reduce Overheating
