@@ -43,6 +43,7 @@ sudo snap install telegram-desktop
 
 ## Settings, Shell & Configs
 ```
+# git
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 
@@ -54,6 +55,9 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 ## Improve sound. Reinstall sound
 sudo apt-get purge pulseaudio
 sudo apt-get clean && sudo apt-get autoremove
+
+## Adjust sound settings
+pavucontrol
 
 # Reboot. Open a terminal again and type (ignore any errors with the rm command):
 rm -r ~/.pulse ~/.asound* ~/.pulse-cookie ~/.config/pulse
